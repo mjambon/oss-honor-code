@@ -98,6 +98,13 @@ everyone's benefit.
 Employee FAQ
 --
 
+### Would the honor code prevent some good people from using my software?
+
+Unfortunately yes, if they work for uncooperative organizations.
+Even people who develop open-source software within their organization
+won't be able to use your software if their organization doesn't
+invest sufficiently in open-source software development.
+
 ### Can I fork a project and remove the honor code notice?
 
 Legally yes, morally no. It is against the spirit of the honor code to
@@ -105,7 +112,7 @@ do so. This would make you an evil person.
 
 ### Can I fork a project and add the honor code notice?
 
-No, unless all authors agree to do so.
+No, unless the authors agree to do so.
 
 ### Can I update the honor code notice in future versions of my software?
 
@@ -142,7 +149,7 @@ independently.
 
 ### Can our organization legally ignore this honor code?
 
-Yes.
+Yes, if your organization is evil.
 
 ### The language is vague. How is it enforceable?
 
