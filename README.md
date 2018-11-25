@@ -182,6 +182,7 @@ Contributing
 
 We need help in the following areas:
 
+* Community management and leadership
 * Promotion in person and on social media
 * Website
 * English writing
